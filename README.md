@@ -15,66 +15,79 @@ A comprehensive course that gets you started with the Raspberry Pi and building 
 
 ## Instructions and Navigation
 ### Assumed Knowledge
-To fully benefit from the coverage included in this course, you will need:<br/>
+
 This course is aimed at Python programmers who are interested in understanding the Raspberry Pi and building real-world projects.
+
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Minimum Hardware Requirements
+<b>Minimum Hardware Requirements</b><br>
+<ul><li>
 For successful completion of this course, students will require the computer systems with at least the following:
-
+</li><li>
 
 OS: Windows/Mac
-
+</li><li>
 
 
 Processor: Intel Dual Core (minimum)
-
+</li><li>
 
 
 Memory: 1GB
-
+</li><li>
 
 
 Storage: 128GB
+</li></ul>
 
+<b>Recommended Hardware Requirements</b><br>
 
-Recommended Hardware Requirements
 For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
 
+<ul><li>
 
 OS:  Windows
 
+</li><li>
 
 
 Processor: Intel i5
 
+</li><li>
 
 
 Memory: 4GB
 
+</li><li>
 
 
 Storage: 25GB
 
+</li><li>
 
 
 Raspberry Pi 3
 
+</li><li>
 
 
 Power Adapter for Raspberry Pi
 
-
+</li><li>
 
 A DHT11 or DHT22 sensor
 
 
-
+</li><li>
+  
 A breadboard and jumper wires
 
+</li><li>
 
 
 Access to the Internet
+
+</li></ul>
 
 ## Related Products
 * [Internet of Things with Python and Raspberry Pi [Video]](https://www.packtpub.com/hardware-and-creative/internet-things-python-and-raspberry-pi-video?utm_source=github&utm_medium=repository&utm_campaign=9781788477864)
