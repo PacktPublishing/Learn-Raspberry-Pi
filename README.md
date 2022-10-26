@@ -96,3 +96,7 @@ Access to the Internet
 
 * [Learning Web Scraping with JavaScript [Video]](https://www.packtpub.com/web-development/learning-web-scraping-javascript-video?utm_source=github&utm_medium=repository&utm_campaign=9781789611311)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789343007">https://packt.link/free-ebook/9781789343007 </a> </p>
